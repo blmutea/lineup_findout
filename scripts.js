@@ -1,16 +1,16 @@
 const angleArrowLinks = [
-    { title: "발로란트 각화살 기술 1", url: "https://www.youtube.com/watch?v=EXAMPLE1" },
-    { title: "발로란트 각화살 기술 2", url: "https://www.youtube.com/watch?v=EXAMPLE2" }
+    { title: "발로란트 각화살 기술1 ", url: "https://youtu.be/yA7D29nS38M?si=L0HiLFSOFdp-c_5o" },
+    { title: "발로란트 각화살 기술2 ", url: "https://youtu.be/Hrq52sIqN9g?si=1mL_u_wf-zNy9EDx" }
 ];
 
 const angleExplosionLinks = [
-    { title: "발로란트 각폭 기술 1", url: "https://www.youtube.com/watch?v=EXAMPLE3" },
-    { title: "발로란트 각폭 기술 2", url: "https://www.youtube.com/watch?v=EXAMPLE4" }
+    { title: "발로란트 각폭 기술1 ", url: "https://youtu.be/XzW7rSSLIto?si=iwfj1jqJ8QCbqZo0" },
+    { title: "발로란트 각폭 기술2 ", url: "https://youtu.be/XCdvjYlukHk?si=vIzq2X5zHZhCmflh" }
 ];
 
 const angleMovementLinks = [
-    { title: "발로란트 각귀체 기술 1", url: "https://www.youtube.com/watch?v=EXAMPLE5" },
-    { title: "발로란트 각귀체 기술 2", url: "https://www.youtube.com/watch?v=EXAMPLE6" }
+    { title: "발로란트 각칼 기술1 ", url: "https://youtu.be/R130014lxHU?si=G3lvmX4z2NgbjNgQ" },
+    { title: "발로란트 각삥 기술1 ", url: "https://youtu.be/258RdNkalqw?si=cWu3L0JEeCZcHLfW" }
 ];
 
 function addLinks(categoryId, links) {
